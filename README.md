@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Devanshu Surana
+👋 Hi, I'm Devanshu Surana
 
-🎓 A Computer Science Grad Student @ UF 
-💡 Passionate about AI, Machine Learning, and impactful full-stack development  
-🔍 Currently exploring GenAI, local LLMs, and open-source ML tools  
-📫 Reach me at: **devanshusurana2003@gmail.com**
+🎓 Computer Science Graduate Student at the University of Florida (UF)
+🤖 Interested in AI/ML, Generative AI, MLOps, and Full-Stack Development
+🔬 Exploring local LLMs, open-source ML tools, and production-ready AI systems
+📫 Email: **devanshusurana2003@gmail.com**
 
 ---
 
