@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devanshu Surana
 
-🎓 A 2025 Computer Science graduate from MIT-WPU, Pune  
+🎓 A Computer Science Grad Student @ UF 
 💡 Passionate about AI, Machine Learning, and impactful full-stack development  
 🔍 Currently exploring GenAI, local LLMs, and open-source ML tools  
 📫 Reach me at: **devanshusurana2003@gmail.com**
